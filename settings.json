@@ -6,9 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "koniloi.aternos.me
-
-",
+    "ip": "koniloi.aternos.me",
     "port":  57766,
     "version": "",
     "try-creative": false
